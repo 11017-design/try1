@@ -1,0 +1,18 @@
+l1=[10,2,4,6,9]
+a=(10.5,5,4)
+print(f"List-> {list(a)}")
+print(f"Length of a: {len(a)}")
+l2=[10,2,6,2,4,2]
+print(f"Count of 2:{l2.count(2)}")
+print(f"Index of 2: {l2.index(2)}")
+print(f"Index of 6: {l2.index(6)}")
+l2.append("Hello")
+print(f"Appended list: {l2}")
+l2.insert(2,"world")
+print("Element inserted at 2: {l2}")
+p=l2.pop()
+print("Popped element: {p}")
+l1.sort()
+print(l2)
+l1.reverse()
+print(l1)

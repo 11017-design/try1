@@ -1,0 +1,16 @@
+
+Student Performance Report
+
+Average Grade: 83.60
+Highest Grade: 98
+Lowest Grade: 65
+
+Grade Distribution:
+
+Grade
+85    1
+92    1
+78    1
+65    1
+98    1
+
